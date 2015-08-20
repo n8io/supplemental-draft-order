@@ -11,3 +11,4 @@ An easy way to build out the snake draft order for the supplemental draft based 
 
 ## Mocks
 * You may edit the teams.json file and run `node mock-config-generator` to generate a random config.XXXXXX.json. It will need to be renamed to config.json before running the app
+* Made edits to your config and want to sort them all by last year's standing? `node sort`
