@@ -1,25 +1,25 @@
 [
   {
-    "id": "Nate",
-    "name": "Nate",
-    "place": 6,
+    "id": "JJ",
+    "name": "JJ",
+    "place": 2,
     "keepers": []
   },
   {
-    "id": "JJ",
-    "name": "JJ",
-    "place": 7,
+    "id": "Nate",
+    "name": "Nate",
+    "place": 6,
     "keepers": [
       {
-        "name": "Ivan Gardner",
+        "name": "J.J. Watt",
         "positition": 1
       },
       {
-        "name": "Jayden Parker",
+        "name": "Kiko Alonso",
         "positition": 2
       },
       {
-        "name": "Micheal Ellis",
+        "name": "Adrian Peterson",
         "positition": 3
       }
     ]
@@ -30,199 +30,215 @@
     "place": 9,
     "keepers": [
       {
-        "name": "Melvin Figueroa",
+        "name": "Lavonte David",
         "positition": 1
       },
       {
-        "name": "Daniel Erickson",
+        "name": "Paul Pozluszny",
         "positition": 2
       },
       {
-        "name": "Arthur Sutton",
+        "name": "Aaron Rodgers",
         "positition": 3
       },
       {
-        "name": "William Mullins",
+        "name": "Julian Edelman",
         "positition": 4
+      },
+      {
+        "name": "Charles Clay",
+        "positition": 5
       }
     ]
   },
   {
     "id": "DK",
     "name": "DK",
-    "place": 1,
+    "place": 10,
     "keepers": [
       {
-        "name": "Vernon Wheeler",
+        "name": "Jamaal Charles",
         "positition": 1
       },
       {
-        "name": "Lawrence Ryan",
+        "name": "Demaryius Thomas",
         "positition": 2
+      },
+      {
+        "name": "Cam Newton",
+        "positition": 3
+      },
+      {
+        "name": "Sammy Watkins",
+        "positition": 4
+      },
+      {
+        "name": "C.J. Anderson",
+        "positition": 5
       }
     ]
   },
   {
     "id": "BDubs",
     "name": "BDubs",
-    "place": 3,
+    "place": 1,
     "keepers": [
       {
-        "name": "Shawn Lane",
+        "name": "Matt Forte",
         "positition": 1
+      },
+      {
+        "name": "Rob Gronkowski",
+        "positition": 2
+      },
+      {
+        "name": "Khalil Mack",
+        "positition": 3
       }
     ]
   },
   {
     "id": "Hurl",
     "name": "Hurl",
-    "place": 4,
+    "place": 8,
     "keepers": [
       {
-        "name": "Jorge Ramirez",
+        "name": "Paul Worrilow",
         "positition": 1
       },
       {
-        "name": "Dean Carlson",
+        "name": "Harrison Smith",
         "positition": 2
       },
       {
-        "name": "Blake Daniels",
+        "name": "C.J. Mosley",
         "positition": 3
+      },
+      {
+        "name": "Jarvis Landry",
+        "positition": 4
+      },
+      {
+        "name": "Reshad Jones",
+        "positition": 5
       }
     ]
   },
   {
     "id": "Brock",
     "name": "Brock",
-    "place": 12,
+    "place": 3,
     "keepers": [
-      {
-        "name": "Franklin Powell",
-        "positition": 1
-      },
-      {
-        "name": "Lloyd Strickland",
-        "positition": 2
-      },
-      {
-        "name": "Dylan French",
-        "positition": 3
-      },
-      {
-        "name": "Mason Blair",
-        "positition": 4
-      },
-      {
-        "name": "Sean Graham",
-        "positition": 5
-      }
     ]
   },
   {
     "id": "Toby",
     "name": "Toby",
-    "place": 5,
+    "place": 4,
     "keepers": [
       {
-        "name": "Lewis Dean",
+        "name": "Alfred Morris",
         "positition": 1
+      },
+      {
+        "name": "Morgan Burnett",
+        "positition": 2
+      },
+      {
+        "name": "Emmanuel Sanders",
+        "positition": 3
+      },
+      {
+        "name": "Jamie Collins",
+        "positition": 4
+      },
+      {
+        "name": "Carlos Hyde",
+        "positition": 5
       }
     ]
   },
   {
     "id": "Frye",
     "name": "Frye",
-    "place": 8,
+    "place": 7,
     "keepers": [
-      {
-        "name": "Craig Cummings",
-        "positition": 1
-      },
-      {
-        "name": "Milton Thornton",
-        "positition": 2
-      },
-      {
-        "name": "Harvey Burgess",
-        "positition": 3
-      },
-      {
-        "name": "Herbert Graham",
-        "positition": 4
-      }
     ]
   },
   {
     "id": "Weaver",
     "name": "Weaver",
-    "place": 2,
+    "place": 11,
     "keepers": [
       {
-        "name": "Carl Coleman",
+        "name": "Andrew Luch",
         "positition": 1
       },
       {
-        "name": "Jerry Davidson",
+        "name": "Bobby Wagner",
         "positition": 2
       },
       {
-        "name": "Eric Harris",
+        "name": "Le'Veon Bell",
         "positition": 3
       },
       {
-        "name": "Gene Townsend",
+        "name": "Brandon Marshall",
         "positition": 4
+      },
+      {
+        "name": "Odell Beckham Jr.",
+        "positition": 5
       }
     ]
   },
   {
     "id": "Jerrod",
     "name": "Jerrod",
-    "place": 11,
+    "place": 12,
     "keepers": [
       {
-        "name": "Tyler Griffin",
+        "name": "Peyton Manning",
         "positition": 1
       },
       {
-        "name": "Stephen Weber",
+        "name": "Julio Jones",
         "positition": 2
       },
       {
-        "name": "Vernon Atkins",
+        "name": "Alec Ogeltree",
         "positition": 3
       },
       {
-        "name": "Alan Burton",
+        "name": "Navarro Bowman",
         "positition": 4
-      },
-      {
-        "name": "Ricky Logan",
-        "positition": 5
       }
     ]
   },
   {
     "id": "Eberhardt",
     "name": "Eberhardt",
-    "place": 10,
+    "place": 5,
     "keepers": [
       {
-        "name": "Shawn Newton",
+        "name": "Calvin Johnson",
         "positition": 1
       },
       {
-        "name": "Erik Barber",
+        "name": "Luke Kuechly",
         "positition": 2
       },
       {
-        "name": "Landon Tucker",
+        "name": "A.J. Green",
         "positition": 3
       },
       {
-        "name": "Christian Holmes",
+        "name": "Eddie Lacy",
         "positition": 4
+      },
+      {
+        "name": "Matt Ryan",
+        "positition": 5
       }
     ]
   }
