@@ -73,12 +73,12 @@ function prettyPrintResults(rounds) {
   var data = '';
 
   _.each(rounds, function(r, rIndex) {
-    data += (nthStr(_.str.lpad(r.id, 2, ' ')) + ' round\n');
+    data += (_.str.lpad(nthStr(r.id), 2, ' ') + ' round\n');
 
     _.each(r.order, function(team, tIndex) {
       data += sprintf('  %s pick (%s) - %s\n',
-       nthStr(_.str.lpad(tIndex + 1, 3, ' ')),
-       nthStr(_.str.lpad(pickCount, 3, ' ')),
+       _.str.lpad(nthStr(tIndex + 1), 3, ' '),
+       _.str.lpad(nthStr(pickCount), 3, ' '),
        team.name
       );
 
@@ -110,6 +110,15 @@ function nthStr(num) {
       break;
     case '2':
       suffix = 'nd';
+      break;
+    case '3':
+      if(str === '13') {
+        suffix = 'th';
+      }
+      else {
+        suffix = 'rd';
+      }
+
       break;
     default:
       break;
