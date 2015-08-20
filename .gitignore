@@ -29,3 +29,5 @@ node_modules
 order.txt
 order.json
 config.*.json
+
+README.html
