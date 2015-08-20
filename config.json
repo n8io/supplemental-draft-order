@@ -1,0 +1,229 @@
+[
+  {
+    "id": "Nate",
+    "name": "Nate",
+    "place": 6,
+    "keepers": []
+  },
+  {
+    "id": "JJ",
+    "name": "JJ",
+    "place": 7,
+    "keepers": [
+      {
+        "name": "Ivan Gardner",
+        "positition": 1
+      },
+      {
+        "name": "Jayden Parker",
+        "positition": 2
+      },
+      {
+        "name": "Micheal Ellis",
+        "positition": 3
+      }
+    ]
+  },
+  {
+    "id": "Pero",
+    "name": "Pero",
+    "place": 9,
+    "keepers": [
+      {
+        "name": "Melvin Figueroa",
+        "positition": 1
+      },
+      {
+        "name": "Daniel Erickson",
+        "positition": 2
+      },
+      {
+        "name": "Arthur Sutton",
+        "positition": 3
+      },
+      {
+        "name": "William Mullins",
+        "positition": 4
+      }
+    ]
+  },
+  {
+    "id": "DK",
+    "name": "DK",
+    "place": 1,
+    "keepers": [
+      {
+        "name": "Vernon Wheeler",
+        "positition": 1
+      },
+      {
+        "name": "Lawrence Ryan",
+        "positition": 2
+      }
+    ]
+  },
+  {
+    "id": "BDubs",
+    "name": "BDubs",
+    "place": 3,
+    "keepers": [
+      {
+        "name": "Shawn Lane",
+        "positition": 1
+      }
+    ]
+  },
+  {
+    "id": "Hurl",
+    "name": "Hurl",
+    "place": 4,
+    "keepers": [
+      {
+        "name": "Jorge Ramirez",
+        "positition": 1
+      },
+      {
+        "name": "Dean Carlson",
+        "positition": 2
+      },
+      {
+        "name": "Blake Daniels",
+        "positition": 3
+      }
+    ]
+  },
+  {
+    "id": "Brock",
+    "name": "Brock",
+    "place": 12,
+    "keepers": [
+      {
+        "name": "Franklin Powell",
+        "positition": 1
+      },
+      {
+        "name": "Lloyd Strickland",
+        "positition": 2
+      },
+      {
+        "name": "Dylan French",
+        "positition": 3
+      },
+      {
+        "name": "Mason Blair",
+        "positition": 4
+      },
+      {
+        "name": "Sean Graham",
+        "positition": 5
+      }
+    ]
+  },
+  {
+    "id": "Toby",
+    "name": "Toby",
+    "place": 5,
+    "keepers": [
+      {
+        "name": "Lewis Dean",
+        "positition": 1
+      }
+    ]
+  },
+  {
+    "id": "Frye",
+    "name": "Frye",
+    "place": 8,
+    "keepers": [
+      {
+        "name": "Craig Cummings",
+        "positition": 1
+      },
+      {
+        "name": "Milton Thornton",
+        "positition": 2
+      },
+      {
+        "name": "Harvey Burgess",
+        "positition": 3
+      },
+      {
+        "name": "Herbert Graham",
+        "positition": 4
+      }
+    ]
+  },
+  {
+    "id": "Weaver",
+    "name": "Weaver",
+    "place": 2,
+    "keepers": [
+      {
+        "name": "Carl Coleman",
+        "positition": 1
+      },
+      {
+        "name": "Jerry Davidson",
+        "positition": 2
+      },
+      {
+        "name": "Eric Harris",
+        "positition": 3
+      },
+      {
+        "name": "Gene Townsend",
+        "positition": 4
+      }
+    ]
+  },
+  {
+    "id": "Jerrod",
+    "name": "Jerrod",
+    "place": 11,
+    "keepers": [
+      {
+        "name": "Tyler Griffin",
+        "positition": 1
+      },
+      {
+        "name": "Stephen Weber",
+        "positition": 2
+      },
+      {
+        "name": "Vernon Atkins",
+        "positition": 3
+      },
+      {
+        "name": "Alan Burton",
+        "positition": 4
+      },
+      {
+        "name": "Ricky Logan",
+        "positition": 5
+      }
+    ]
+  },
+  {
+    "id": "Eberhardt",
+    "name": "Eberhardt",
+    "place": 10,
+    "keepers": [
+      {
+        "name": "Shawn Newton",
+        "positition": 1
+      },
+      {
+        "name": "Erik Barber",
+        "positition": 2
+      },
+      {
+        "name": "Landon Tucker",
+        "positition": 3
+      },
+      {
+        "name": "Christian Holmes",
+        "positition": 4
+      }
+    ]
+  }
+]

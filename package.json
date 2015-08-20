@@ -1,0 +1,17 @@
+{
+  "name": "supplemental-draft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "draft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Clark",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^0.7.6",
+    "lodash": "^3.10.1",
+    "sprintf-js": "^1.0.3",
+    "underscore.string": "^3.1.1"
+  }
+}
