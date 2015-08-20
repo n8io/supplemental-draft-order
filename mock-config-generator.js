@@ -1,6 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 
+var glob = require('glob-all');
 var _ = require('lodash');
 _.str = require('underscore.string');
 var chance = new require('chance')();
@@ -20,6 +21,10 @@ var data = _.map(teamsNames, function(n, index) {
 });
 
 var filename = path.join(__dirname, 'config.' + (new Date()).getTime() + '.json');
+
+_.each(glob.sync(path.join(__dirname, 'config.*.json')), function(file) {
+  fs.unlinkSync(file);
+});
 
 fs.writeFile(filename, JSON.stringify(data, null, 2), function(err) {
   if(err) {
