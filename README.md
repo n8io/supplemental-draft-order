@@ -1,7 +1,7 @@
 #supplemental-draft-order
 An easy way to build out the snake draft order for the supplemental draft based on keepers and last year's standings
 
-[![Output](https://dl.dropboxusercontent.com/u/452959/hosted/order.png)]
+[![Output](order.png)]
 
 ## To use
 1. `npm install`
